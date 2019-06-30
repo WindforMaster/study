@@ -1,0 +1,16 @@
+com\pojo\News_detailExample$Criterion.class
+com\pojo\News_commentExample$Criterion.class
+com\pojo\News_detailExample$Criteria.class
+com\service\impl\NewsdetailServiceImpl.class
+com\service\INewsdetailService.class
+com\pojo\News_detailExample.class
+com\pojo\News_commentExample.class
+com\pojo\News_detail.class
+com\pojo\PageBean.class
+com\pojo\News_comment.class
+com\mapper\News_commentMapper.class
+com\pojo\News_commentExample$GeneratedCriteria.class
+com\pojo\News_detailExample$GeneratedCriteria.class
+com\pojo\News_commentExample$Criteria.class
+com\controller\Controller1.class
+com\mapper\News_detailMapper.class
